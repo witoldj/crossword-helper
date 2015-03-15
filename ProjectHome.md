@@ -1,0 +1,1 @@
+The application provides the ability to search for particular words in a dictionary. The search can be based on a 'crossword like' definition of a matching word (e.g. search for "w-r-" will return "word" and "ward"),  or 'scrabble like' definition (e.g. for letters 'eehrt' will return "there" and "here")
